@@ -1,1 +1,1 @@
-Link to my final project: 
+Link to my final project: https://eprickettmorgan-ux.github.io/Final-Project
